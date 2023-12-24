@@ -1,2 +1,3 @@
 .venv/
 *.docx
+lab6/logo_detection_model.h5
